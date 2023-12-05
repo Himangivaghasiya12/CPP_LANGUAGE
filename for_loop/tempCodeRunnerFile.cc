@@ -1,0 +1,3 @@
+
+        cout << "total is: "<< total;
+}
